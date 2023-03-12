@@ -18,3 +18,14 @@ A job vacany website that displays latest vacancies and allowing the users to ap
 
 ![Screenshot (209)](https://user-images.githubusercontent.com/90986123/224562049-4ab91b08-7eb4-4929-bbe5-354230d0c78b.png)
 
+#Sign up page and Sign in:
+
+![Screenshot (210)](https://user-images.githubusercontent.com/90986123/224562513-b4b5fef1-0d7f-4331-b578-9e3f55369391.png)
+
+![Screenshot (211)](https://user-images.githubusercontent.com/90986123/224562530-5021a5ac-e6c8-4457-8f61-a95d62bfc077.png)
+
+#contact and Job Posting
+
+![Screenshot (212)](https://user-images.githubusercontent.com/90986123/224562790-2894c25c-38a2-4a50-85c4-c92c4a77f315.png)
+
+
